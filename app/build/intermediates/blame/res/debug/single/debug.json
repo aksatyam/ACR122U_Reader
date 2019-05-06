@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/satyam/Desktop/ReaderTest/app/build/intermediates/res/merged/debug/layout_verify_pin_dialog.xml.flat",
+        "source": "/home/satyam/Desktop/ReaderTest/app/src/main/res/layout/verify_pin_dialog.xml"
+    },
+    {
+        "merged": "/home/satyam/Desktop/ReaderTest/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/satyam/Desktop/ReaderTest/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/satyam/Desktop/ReaderTest/app/build/intermediates/res/merged/debug/layout_modify_pin_dialog.xml.flat",
+        "source": "/home/satyam/Desktop/ReaderTest/app/src/main/res/layout/modify_pin_dialog.xml"
+    },
+    {
+        "merged": "/home/satyam/Desktop/ReaderTest/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/home/satyam/Desktop/ReaderTest/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/satyam/Desktop/ReaderTest/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/home/satyam/Desktop/ReaderTest/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/satyam/Desktop/ReaderTest/app/build/intermediates/res/merged/debug/layout_read_key_dialog.xml.flat",
+        "source": "/home/satyam/Desktop/ReaderTest/app/src/main/res/layout/read_key_dialog.xml"
+    },
+    {
+        "merged": "/home/satyam/Desktop/ReaderTest/app/build/intermediates/res/merged/debug/layout_display_lcd_message_dialog.xml.flat",
+        "source": "/home/satyam/Desktop/ReaderTest/app/src/main/res/layout/display_lcd_message_dialog.xml"
+    },
+    {
+        "merged": "/home/satyam/Desktop/ReaderTest/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/home/satyam/Desktop/ReaderTest/app/src/main/res/drawable-mdpi/icon.png"
+    }
+]

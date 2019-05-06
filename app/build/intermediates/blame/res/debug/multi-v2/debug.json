@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/satyam/Desktop/ReaderTest/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/satyam/Desktop/ReaderTest/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "122,55",
+                        "endColumns": "47,66",
+                        "endOffsets": "165,117"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,103",
+                        "endColumns": "47,66",
+                        "endOffsets": "98,165"
+                    }
+                }
+            ]
+        }
+    ]
+}
